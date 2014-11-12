@@ -1,0 +1,16 @@
+c:\users\tetsushi\documents\visual studio 2013\Projects\kMeansTester\kMeansTester\bin\Debug\kMeansTester.exe.config
+c:\users\tetsushi\documents\visual studio 2013\Projects\kMeansTester\kMeansTester\bin\Debug\kMeansTester.exe
+c:\users\tetsushi\documents\visual studio 2013\Projects\kMeansTester\kMeansTester\bin\Debug\kMeansTester.pdb
+c:\users\tetsushi\documents\visual studio 2013\Projects\kMeansTester\kMeansTester\bin\Debug\LabImg.dll
+c:\users\tetsushi\documents\visual studio 2013\Projects\kMeansTester\kMeansTester\bin\Debug\OpenCvSharp.CPlusPlus.dll
+c:\users\tetsushi\documents\visual studio 2013\Projects\kMeansTester\kMeansTester\bin\Debug\OpenCvSharp.dll
+c:\users\tetsushi\documents\visual studio 2013\Projects\kMeansTester\kMeansTester\bin\Debug\OpenCvSharp.Extensions.dll
+c:\users\tetsushi\documents\visual studio 2013\Projects\kMeansTester\kMeansTester\obj\Debug\kMeansTester.csprojResolveAssemblyReference.cache
+c:\users\tetsushi\documents\visual studio 2013\Projects\kMeansTester\kMeansTester\obj\Debug\kMeansTester.Form1.resources
+c:\users\tetsushi\documents\visual studio 2013\Projects\kMeansTester\kMeansTester\obj\Debug\kMeansTester.Properties.Resources.resources
+c:\users\tetsushi\documents\visual studio 2013\Projects\kMeansTester\kMeansTester\obj\Debug\kMeansTester.csproj.GenerateResource.Cache
+c:\users\tetsushi\documents\visual studio 2013\Projects\kMeansTester\kMeansTester\obj\Debug\kMeansTester.exe
+c:\users\tetsushi\documents\visual studio 2013\Projects\kMeansTester\kMeansTester\obj\Debug\kMeansTester.pdb
+c:\users\tetsushi\documents\visual studio 2013\Projects\kMeansTester\kMeansTester\bin\Debug\RectifyRight.bmp
+c:\users\tetsushi\documents\visual studio 2013\Projects\kMeansTester\kMeansTester\bin\Debug\top.csv
+c:\users\tetsushi\documents\visual studio 2013\Projects\kMeansTester\kMeansTester\bin\Debug\top_Disparity.csv
